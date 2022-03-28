@@ -3,7 +3,8 @@ header>.header svg path{
 }
 
 header nav.desk{
-    position: fixed;
+    position: sticky;
+    top: 0;
     width: 99vw;
     background: #fff;
     padding: 10px 0;
